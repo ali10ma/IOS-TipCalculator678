@@ -1,4 +1,4 @@
-# IOS-TipCalculator678 - *TipCalculator678*
+# Prework - *TipCalculator678*
 
 **TipCalculator678** is a tip calculator application for iOS.
 
